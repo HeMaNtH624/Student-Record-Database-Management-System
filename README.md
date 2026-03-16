@@ -123,4 +123,11 @@ student-record-management-system/
 ## Author
 
 **Hemanth Kumar**  
+Electronics and Communication Engineering  
+
+---
+
+## 📜 License
+
+Developed for educational and research purposes, feel free to send pull requests.
 
