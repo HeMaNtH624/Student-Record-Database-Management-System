@@ -112,9 +112,9 @@ student-record-management-system/
 |-------------------------------------------|
 | Roll       | Name            | Marks      |
 |-------------------------------------------|
-| 1          | Rahul           | 85.50      |
-| 2          | Anitha          | 92.00      |
-| 3          | Kiran           | 78.25      |
+| 1          | John A          | 85.50      |
+| 2          | Alexa           | 92.00      |
+| 3          | Tony            | 78.25      |
 |-------------------------------------------|
 ```
 
@@ -123,4 +123,4 @@ student-record-management-system/
 ## Author
 
 **Hemanth Kumar**  
-Electronics and Communication Engineering (ECE)
+
